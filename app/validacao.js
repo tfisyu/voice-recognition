@@ -39,7 +39,7 @@ function validResult(nome){
             `
         document.querySelector('.fotos').appendChild(imagens[4])
     }
-    if(nome == 'naju gatinha'){
+    if(nome == 'Ana Ju gatinha'){
         document.body.innerHTML = `
             <p>coisinha mais linda!!!!! pena que é top 1 doente do grupo</p>
             <div class="fotos"></div>

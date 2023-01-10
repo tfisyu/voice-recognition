@@ -26,6 +26,8 @@ function exibeNome(nome){
 
 recognition.addEventListener('end', () => recognition.start())
 
+//exibir as opções de nomes
+
 const showNames = document.querySelector('.nomes')
 const hiddenNames = document.querySelector('.hidden')
 const seta = document.querySelector('.fa-angle-down')

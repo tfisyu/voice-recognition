@@ -42,6 +42,14 @@ p{
     display: none;
 }
 
+.nomes{
+    cursor: pointer;
+}
+
+.nomes:hover{
+    text-decoration: underline;
+}
+
 .mensagem{
     font-size: 1.5em;
     margin-top: 40px;

@@ -7,9 +7,9 @@ function validResult(nome){
         `
         document.querySelector('.fotos').appendChild(imagens[0])
     }
-    if(nome == 'Alessandro gay'){
+    if(nome == 'Alessandro Barbosa'){
         document.body.innerHTML = `
-            <p>tire os olhos de meu homem</p>
+            <p>volta comigo, eu vou te fazer o homem mais feliz do mundo <3</p>
             <div class="fotos"></div>
             <button id="replay" class="btn-jogar">jogar novamente</button>
         `
@@ -17,7 +17,7 @@ function validResult(nome){
     }
     if(nome == 'Igor Sadoc'){
         document.body.innerHTML = `
-            <p>oia que fofinho de delineado de gatinho</p>
+            <p>é muito triste ver a degradação de um ser humano: antes batia punheta pra hentai e hoje namora e tem emprego :(</p>
             <div class="fotos"></div>
             <button id="replay" class="btn-jogar">jogar novamente</button>
             `
@@ -25,7 +25,7 @@ function validResult(nome){
     }
     if(nome == 'João Nogueira'){
         document.body.innerHTML = `
-            <p>jujuuuuuuuuu</p>
+            <p>oi joao. @processosjudiciais_joaonogueira</p>
             <div class="fotos"></div>
             <button id="replay" class="btn-jogar">jogar novamente</button>
         `
@@ -33,7 +33,7 @@ function validResult(nome){
     }
     if(nome == 'Lucas gordo'){
         document.body.innerHTML = `
-            <p>a imagem quase nao carregou de tao pesada</p>
+            <p>o famoso 01354! 0 afeto feminino. 1354 horas de jett no low elo</p>
             <div class="fotos"></div>
             <button id="replay" class="btn-jogar">jogar novamente</button>
             `
@@ -41,7 +41,7 @@ function validResult(nome){
     }
     if(nome == 'naju gatinha'){
         document.body.innerHTML = `
-            <p>coisinha mais linda, pena que é top 1 doente do grupo</p>
+            <p>coisinha mais linda!!!!! pena que é top 1 doente do grupo</p>
             <div class="fotos"></div>
             <button id="replay" class="btn-jogar">jogar novamente</button>
         `
@@ -57,7 +57,7 @@ function validResult(nome){
     }
     if(nome == 'Samuel Souza'){
         document.body.innerHTML = `
-            <p>autoexplicativo:</p>
+            <p>chegou a notícia que ninguém queria dar :(</p>
             <div class="fotos"></div>
             <button id="replay" class="btn-jogar">jogar novamente</button>
         `
